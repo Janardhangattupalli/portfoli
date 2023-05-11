@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+}
+header{
+    background-color:black;
+    color: aqua;
+    padding: 30px;
+}
+nav ul li 
+{
+color: black;
+text-decoration-style: none;
+display: inline;
+padding: 20px;
+}
+img{
+    height:200px;
+    width:200px;
+    border-radius: 100px;
+}
+#portfolio{
+    background-color: cornflowerblue;
+    padding:30px
+} 
+li{
+    display: inline;
+    padding: 20px;
+}
+footer{
+    background-color: black;
+    color: chocolate;
+    padding:20px;
+}
